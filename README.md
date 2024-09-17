@@ -1,1 +1,3 @@
 # K_Means-Clustering-Project
+
+In this project, K-means clustering is applied to a dataset using a Python implementation from scratch. The algorithm clusters data points into distinct groups based on their proximity, calculated using the Euclidean distance formula. To determine the optimal number of clusters (K), the Elbow method is used, evaluating the average distances within clusters. The process involves initializing centroids, assigning data points to the nearest centroid, updating centroids, and repeating the steps until convergence. Each iteration's results are visualized, showcasing how the clusters evolve.
